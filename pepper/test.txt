@@ -1,0 +1,12 @@
+/home/miokato/ml/darknet/pepper/data/51.jpg
+/home/miokato/ml/darknet/pepper/data/79.jpg
+/home/miokato/ml/darknet/pepper/data/47.jpg
+/home/miokato/ml/darknet/pepper/data/53.jpg
+/home/miokato/ml/darknet/pepper/data/1.jpg
+/home/miokato/ml/darknet/pepper/data/84.jpg
+/home/miokato/ml/darknet/pepper/data/90.jpg
+/home/miokato/ml/darknet/pepper/data/91.jpg
+/home/miokato/ml/darknet/pepper/data/85.jpg
+/home/miokato/ml/darknet/pepper/data/52.jpg
+/home/miokato/ml/darknet/pepper/data/0.jpg
+/home/miokato/ml/darknet/pepper/data/46.jpg
